@@ -7,7 +7,7 @@ blocks:
       testing This is some quality content right here. Here's another bit of
       text.
   - template: block-cta
-    text: Click Me
+    text: Click Me test
 ---
 
 blah
